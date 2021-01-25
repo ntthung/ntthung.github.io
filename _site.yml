@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "Vitae"
       href: vitae.html
+    - text: "Teaching & Talks"
+      href: talks.html
     - text: "Publications"
       href: publications.html
     - text: "Code"
