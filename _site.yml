@@ -1,4 +1,4 @@
-name: "ntthung"
+name: "ntthung.github.io"
 title: "Nguyen Tan Thai Hung"
 description: |
   Nguyen Tan Thai Hung
@@ -13,6 +13,5 @@ navbar:
       href: publications.html
     - text: "Code"
       href: code.html
-output:
-  distill::distill_article
+output: distill::distill_article
 
