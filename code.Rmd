@@ -11,17 +11,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [mbr](https://github.om/ntthung/mbr) (mass-balanced reconstruction): Paleoclimate reconstruction with mass-balance-adjusted regression [@Nguyen2020MultiProxy].
 
-[ldsr](https://github.com/ntthung/ldsr) (Linear Dynamical System Reconstruction): Streamflow reconstruction using the linear dynamical system (LDS) model [@Nguyen2018Linear].
+[ldsr](https://github.com/ntthung/ldsr) (Linear Dynamical System Reconstruction): Streamflow reconstruction using the linear dynamical system (LDS) model [@Nguyen2018Linear]. Available on [CRAN](https://cran.r-project.org/web/packages/ldsr/index.html).
 
-[shy](https://github.com/ntthung/shy) (Stochastic Hydrology): a set of utility functions to generate stochastc streamflow ensembles.
+[shy](https://github.com/ntthung/shy) (Stochastic Hydrology): a set of utility functions to generate stochastic streamflow ensembles.
 
 # Code repos
 
 [multiproxy-mbr](hptts://github.com/ntthung/multiproxy-mbr): Code to reproduce the paper "Multi-proxy, Multi-season Streamflow Reconstruction with Mass-Balance Adjustments" [@Nguyen2020MultiProxy].
 
-[paleo-asia](https://github.com/ntthung/paleo-asia): Code to reproduce the Monsoon Asia reconstruction paper [@Nguyen2020Coherent].
+[paleo-asia](https://github.com/ntthung/paleo-asia): Code to reproduce the Monsoon Asia streamflow reconstruction paper [@Nguyen2020Coherent].
 
-[Ping](https://github.com/ntthung/Ping): Code to reproduce the paer that reconstructs the Ping River streamflow using the LDS model [@Nguyen2018Linear].
+[Ping](https://github.com/ntthung/Ping): Code to reproduce the paper on reconstructing the Ping River streamflow using the LDS model [@Nguyen2018Linear].
 
 
 
