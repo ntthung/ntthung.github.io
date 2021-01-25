@@ -1,0 +1,42 @@
+---
+title: "Nguyen Tan Thai Hung"
+description: "Everything water"
+image: "assets/profile-picture.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com.sg/citations?user=8zCRRxkAAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/ntthung"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0003-0174-6659"
+  - label: Twitter
+    url: "https://twitter.com/Hung_TT_Nguyen"
+  - label: Email
+    url: "mailto:htn2118@columbia.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+I am a water guy.
+
+In my research, I try to understand the variability and changes in the water cycle at multiple spatial and temporal scales, and apply such understanding to water resources management. 
+
+I care about reproducible research. I believe in sharing knowledge and work to promote science to a broader audience. I love teaching and I do my best to instill research interests in students. 
+
+Before coming back to academia, I was an engineer, running water treatment plants in Qatar and Singapore. Having seen the bolts and nuts of water resources systems, and the problems they inherited from a larger scale, I appreciate the importance of systematic planning and operation. That triggered me to pursue a PhD in Engineering Systems and Design, with a focus on water resources management.
+
+As I was working towards better water management for a better future, I realized that the key to the future lies in the past, and trees hold---in their rings---a treasure map that can lead us to that key. Since then, the weirdly wonderful world of tree rings have always fascinates me.
+
+Welcome to my website, where I share my stories and discoveries.

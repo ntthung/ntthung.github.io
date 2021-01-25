@@ -1,0 +1,28 @@
+---
+title: "Code"
+bibliography: "assets/mypubs.bib"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# R packages
+
+[mbr](https://github.om/ntthung/mbr) (mass-balanced reconstruction): Paleoclimate reconstruction with mass-balance-adjusted regression [@Nguyen2020MultiProxy].
+
+[ldsr](https://github.com/ntthung/ldsr) (Linear Dynamical System Reconstruction): Streamflow reconstruction using the linear dynamical system (LDS) model [@Nguyen2018Linear].
+
+[shy](https://github.com/ntthung/shy) (Stochastic Hydrology): a set of utility functions to generate stochastc streamflow ensembles.
+
+# Code repos
+
+[multiproxy-mbr](hptts://github.com/ntthung/multiproxy-mbr): Code to reproduce the paper "Multi-proxy, Multi-season Streamflow Reconstruction with Mass-Balance Adjustments" [@Nguyen2020MultiProxy].
+
+[paleo-asia](https://github.com/ntthung/paleo-asia): Code to reproduce the Monsoon Asia reconstruction paper [@Nguyen2020Coherent].
+
+[Ping](https://github.com/ntthung/Ping): Code to reproduce the paer that reconstructs the Ping River streamflow using the LDS model [@Nguyen2018Linear].
+
+
+
+
