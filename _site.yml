@@ -14,5 +14,5 @@ navbar:
     - text: "Code"
       href: code.html
 output:
-  distill::distill_article:
-    css: styles.css
+  distill::distill_article
+

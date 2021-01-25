@@ -1,6 +1,6 @@
 ---
 title: "Code"
-bibliography: "assets/mypubs.bib"
+bibliography: assets/mypubs.bib
 ---
 
 ```{r setup, include=FALSE}
