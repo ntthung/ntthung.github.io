@@ -2043,8 +2043,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  d-article a {
+    color: firebrick;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  d-article a:hover {
+    text-decoration: underline;
+    border-bottom: none;
+  }
+
+  .distill-site-header {
+    --title-size:       18px;
+    --text-color:       rgba(255, 255, 255, 0.8);
+    --text-size:        15px;
+    --hover-color:      white;
+    --bkgd-color:       #0F2E3D;
+    font-weight:        bold;
+  }
+
+  .d-contents a {
+    color: grey;
+  }
+
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="styles.css" type="text/css"/>
 
 </head>
 
@@ -2065,10 +2092,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="vitae.html">Vitae</a>
-<a href="talks.html">Teaching &amp; Talks</a>
+<a href="research.html">Research</a>
+<a href="teaching.html">Teaching</a>
+<a href="service.html">Service</a>
 <a href="publications.html">Publications</a>
+<a href="talks.html">Talks</a>
 <a href="code.html">Code</a>
+<a href="vitae.html">Vitae</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>

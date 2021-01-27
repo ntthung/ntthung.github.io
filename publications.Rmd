@@ -124,30 +124,29 @@ p1 + p2 + plot_layout(widths = c(5, 1))
 
 ## Published
 
-1. **Nguyen, H. T. T.**, & Galelli, S. (2018). A Linear Dynamical Systems Approach to Streamflow Reconstruction Reveals History of Regime Shifts in Northern Thailand. Water Resources Research, 54(3), 2057–2077. DOI: 10.1002/2017WR022114
+1.  **Nguyen, H. T. T.**, & Galelli, S. (2018). A Linear Dynamical Systems Approach to Streamflow Reconstruction Reveals History of Regime Shifts in Northern Thailand. Water Resources Research, 54(3), 2057--2077. DOI: [10.1002/2017WR022114](https://doi.org/10.1002/2017WR022114).
 
-2. Libisch-Lehner, C. P., **Nguyen, H. T. T.**, Taormina, R., Nachtnebel, H. P., & Galelli, S. (2019). On the Value of ENSO State for Urban Water Supply System Operators: Opportunities, Trade-Offs, and Challenges. Water Resources Research, 55(4), 2856–2875. DOI: 10.1029/2018WR023622
+2.  Libisch-Lehner, C. P., **Nguyen, H. T. T.**, Taormina, R., Nachtnebel, H. P., & Galelli, S. (2019). On the Value of ENSO State for Urban Water Supply System Operators: Opportunities, Trade-Offs, and Challenges. Water Resources Research, 55(4), 2856--2875. DOI: [10.1029/2018WR023622](https://doi.org/10.1029/2018WR023622).
 
-3. **Nguyen, H. T. T.**, Turner, S. W. D., Buckley, B. M., & Galelli, S. (2020). Coherent Streamflow Variability in Monsoon Asia Over the Past Eight Centuries—Links to Oceanic Drivers. Water Resources Research, 56(12). DOI: 10.1029/2020WR027883
+3.  **Nguyen, H. T. T.**, Turner, S. W. D., Buckley, B. M., & Galelli, S. (2020). Coherent Streamflow Variability in Monsoon Asia Over the Past Eight Centuries---Links to Oceanic Drivers. Water Resources Research, 56(12). DOI: [10.1029/2020WR027883](https://doi.org/10.1029/2020WR027883).
 
-4. Galelli, S., **Nguyen, H. T. T.**, Turner, S. W. D., and Buckley, B. M. (2021). Time to use dendrohydrological data in water resources management? Commentary, to appear in Journal of Water Resources Planning and Management
+4.  Galelli, S., **Nguyen, H. T. T.**, Turner, S. W. D., and Buckley, B. M. (2021). Time to use dendrohydrological data in water resources management? Commentary, to appear in Journal of Water Resources Planning and Management
 
-5. **Nguyen, H. T. T.**, Galelli, S., Xu, C., & Buckley, B. (2020). Multi-Proxy, Multi-Season Streamflow Reconstruction with Mass Balance Adjustment. Earth and Space Science Open Archive. DOI: 10.1002/essoar.10504791.1
+5.  **Nguyen, H. T. T.**, Galelli, S., Xu, C., & Buckley, B. (2020). Multi-Proxy, Multi-Season Streamflow Reconstruction with Mass Balance Adjustment. Earth and Space Science Open Archive. DOI: [10.1002/essoar.10504791.1](https://doi.org/[10.1002/essoar.10504791.1]).
 
-6. Chowdhury, A. F. M. K., Dang, T. D., **Nguyen, H. T. T.**, Koh, R., & Galelli, S. (2021). The Greater Mekong's climate-water-energy nexus: how ENSO-triggered regional droughts affect power supply and CO2 emissions. Accepted in Earth’s Future. DOI: 10.1002/essoar.10504393.1
+6.  Chowdhury, A. F. M. K., Dang, T. D., **Nguyen, H. T. T.**, Koh, R., & Galelli, S. (2021). The Greater Mekong's climate-water-energy nexus: how ENSO-triggered regional droughts affect power supply and CO2 emissions. Accepted in Earth's Future. DOI: [10.1002/essoar.10504393.1](https://doi.org/10.1002/essoar.10504393.1).
 
 ## In pipeline
 
-7. Buckley, B.M., **Nguyen, H. T. T.**, Galelli, S., Ummenhofer, C.C., D’Arrigo, R.D., Hansen, K.G., and Stahle, D.K. The Southeast Asian Dendrochronology Project: Hydroclimate variability over the past millennium. Quaternary Science Reviews (invited review, manuscript in preparation).
+7.  Buckley, B.M., **Nguyen, H. T. T.**, Galelli, S., Ummenhofer, C.C., D'Arrigo, R.D., Hansen, K.G., and Stahle, D.K. The Southeast Asian Dendrochronology Project: Hydroclimate variability over the past millennium. Quaternary Science Reviews (invited review, manuscript in preparation).
 
-8. **Nguyen, H. T. T.**, Barbarossa, V., Turner, S.W.D., Buckley, B.M., and Galelli, S. A high-resolution paleo streamflow record for Monsoon Asia with surrogate streamflow data. Presented at MODSIM 2019; work in progress.
+8.  **Nguyen, H. T. T.**, Barbarossa, V., Turner, S.W.D., Buckley, B.M., and Galelli, S. A high-resolution paleo streamflow record for Monsoon Asia with surrogate streamflow data. Presented at MODSIM 2019; work in progress.
 
-9. **Nguyen, H. T. T.**, Vu, D. T., and Galelli, S. On the value of streamflow reconstruction to flood management in the Chao Phraya River Basin. Work in progress.
+9.  **Nguyen, H. T. T.**, Vu, D. T., and Galelli, S. On the value of streamflow reconstruction to flood management in the Chao Phraya River Basin. Work in progress.
 
 10. Paleoclimate model simulation and paleostreamflow reconstruction. This work will be carried out in my postdoc.
 
 # Media
 
-*PhD and Parenthood: An Insider’s Story.*  
-Blog post on doing a PhD as a parent, first appeared on The Early Pages, blog site of the PAGES Early Career Network, and reproduced by TODAYonline (a Singapore newspaper). For this article I was also interviewed live on air by Channel News Asia’s FM 93.8.
-https://theearlypages.blogspot.com/2019/08/phd-and-parenthood-insiders-story.html
+*PhD and Parenthood: An Insider's Story.*\
+Blog post on doing a PhD as a parent, first appeared on The Early Pages, blog site of the PAGES Early Career Network, and reproduced by TODAYonline (a Singapore newspaper). For this article I was also interviewed live on air by Channel News Asia's FM 93.8. <https://theearlypages.blogspot.com/2019/08/phd-and-parenthood-insiders-story.html>

@@ -1,19 +1,26 @@
 name: "ntthung.github.io"
 title: "Nguyen Tan Thai Hung"
 description: |
-  Nguyen Tan Thai Hung
+  Nguyen Tan Thai Hung's home page
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Vitae"
-      href: vitae.html
-    - text: "Teaching & Talks"
-      href: talks.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Service"
+      href: service.html
     - text: "Publications"
       href: publications.html
+    - text: "Talks"
+      href: talks.html
     - text: "Code"
       href: code.html
-output: distill::distill_article
-
+    - text: "Vitae"
+      href: vitae.html
+output:
+  distill::distill_article:
+    css: styles.css

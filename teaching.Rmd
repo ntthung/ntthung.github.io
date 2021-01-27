@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+-   Teaching Associate, Columbia University (invited, remotely), Fall 2020\
+    Course: SUSCPS5020 Predicting the Effects of Climate Change on Global Forests
+
+**Student's feedback**
+
+> Having Hung as the "TA" was like having a second professor in the course. Hung managed to take a class of total programming beginners and turn most of them into enthusiastic R amateurs. The evidence was that half of the final projects contained an R analysis done by student choice. Hung is an absolute R wizard but also understands the underlying climate dynamics, which makes for a powerful combination. The combination of understanding the data and the ability to use an efficient statistical tool to do an analysis of millions of data is an incredibly powerful tool to give to climate science students. Hung made himself available on short notice and patiently but efficiently taught students not just how to complete assignments, but how to approach climate data analysis. I also got to see Hung in action brilliantly defending his doctoral thesis and can say that whoever gets Hung on their faculty will be very lucky.
+
+-   Graduate Teaching Assistant, SUTD, 2016--2018\
+    Courses:
+
+    -   Engineering Systems Architecture, for which I received the Teaching Excellence Award for Most Outstanding Teaching Assistant, given by SUTD.
+
+    -   Quality and Reliability, for which I received the Outstanding Teaching Assistant Award, given by the Pillar of Engineering Systems and Design.
+
+# Guest lectures
+
+-   *Dendrochronological data analysis with R*\
+    GE5211 Dynamic Environments, National University of Singapore\
+    Invited by Dr. Gretchen Coffman

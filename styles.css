@@ -1,0 +1,23 @@
+d-article a {
+  color: firebrick;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+d-article a:hover {
+  text-decoration: underline;
+  border-bottom: none;
+}
+
+.distill-site-header {
+  --title-size:       18px;
+  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-size:        15px;
+  --hover-color:      white;
+  --bkgd-color:       #0F2E3D;
+  font-weight:        bold;
+}
+
+.d-contents a {
+  color: grey;
+}

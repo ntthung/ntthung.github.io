@@ -2,50 +2,48 @@
 title: "Vitae"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 <aside>
-  <span style="font-size:125%">[PDF](assets/CV-Hung.pdf)</span>
+
+[[PDF](assets/CV-Hung.pdf)]{style="font-size:150%"}
+
 </aside>
 
 # Appointment
 
-* Postdoctoral Research Scientist, Lamont-Doherty Earth Observatory, Columbia University, starting June 2021.
+-   Postdoctoral Research Scientist, Lamont-Doherty Earth Observatory, Columbia University, starting June 2021.
 
 # Awards
 
-* Teaching Excellence---Most Outstanding Teaching Assistant, SUTD, 2019
-* Best Research Project, SUTD Research Fest, 2019
-* Winner (First Prize), SUTD 3-Minute Thesis competition, 2018
-* Outstanding Teaching Assistant Award, SUTD, 2017
+-   Teaching Excellence---Most Outstanding Teaching Assistant, SUTD, 2019
+-   Best Research Project, SUTD Research Fest, 2019
+-   Winner (First Prize), SUTD 3-Minute Thesis competition, 2018
+-   Outstanding Teaching Assistant Award, SUTD, 2017
 
 # Fellowships & scholarships
 
-* Lamont Postdoctoral Fellowship 
-* SUTD President’s Graduate Fellowship
-* SDWA Study Grant, SGD 50,000
-* Keppel Corporation’s Study Grant, SGD 30,000
-* NUS Civil Engineering Scholarship, SGD 24,000
-* NUS Award for Studying Abroad, SGD 11,000
-* NUS Engineering Innovation & Research Award (for Bachelor’s dissertation)
+-   Lamont Postdoctoral Fellowship
+-   SUTD President's Graduate Fellowship
+-   SDWA Study Grant, SGD 50,000
+-   Keppel Corporation's Study Grant, SGD 30,000
+-   NUS Civil Engineering Scholarship, SGD 24,000
+-   NUS Award for Studying Abroad, SGD 11,000
+-   NUS Engineering Innovation & Research Award (for Bachelor's dissertation)
 
 # Education
 
-* PhD, Singapore University of Technology and Design, 2021
-* M.Sc, Civil Engineering, Delft University of Technology (2012)
-* M.Sc, Hydraulic Engineering & Water Resources Management, National University of Singapore (2012)
-* B.Eng, Civil Engineering (Joint Degree), National University of Singapore and University of Melbourne (2009)
+-   PhD, Singapore University of Technology and Design (2021)
+-   M.Sc, Civil Engineering, Delft University of Technology (2012)
+-   M.Sc, Hydraulic Engineering & Water Resources Management, National University of Singapore (2012)
+-   B.Eng, Civil Engineering (Joint Degree), National University of Singapore and University of Melbourne (2009)
 
 # Industry experience
 
-Keppel Group of companies (2011 – 2015) with the following key appointments
+Keppel Group of companies (2011 -- 2015) with the following key appointments
 
-* Senior Operation & Maintenance Engineer, Ulu Pandan NEWater Plant 
-* Process Engineer, Doha North Sewage Treatment Works
+-   Senior Operation & Maintenance Engineer, Ulu Pandan NEWater Plant
+-   Process Engineer, Doha North Sewage Treatment Works
 
-Awards:
+**Awards:**
 
-* Safety Supervisor of the year (2014)
-* Safety Innovation Project (2014, 2015)
+-   Safety Supervisor of the year (2014)
+-   Safety Innovation Project (2014, 2015)

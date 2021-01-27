@@ -1,6 +1,6 @@
 ---
 title: "Code"
-bibliography: assets/mypubs.bib
+bibliography: "assets/mypubs.bib"
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +22,3 @@ knitr::opts_chunk$set(echo = FALSE)
 [paleo-asia](https://github.com/ntthung/paleo-asia): Code to reproduce the Monsoon Asia streamflow reconstruction paper [@Nguyen2020Coherent].
 
 [Ping](https://github.com/ntthung/Ping): Code to reproduce the paper on reconstructing the Ping River streamflow using the LDS model [@Nguyen2018Linear].
-
-
-
-
