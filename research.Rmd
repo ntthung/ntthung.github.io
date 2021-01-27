@@ -26,7 +26,7 @@ knitr::include_graphics('assets/thesis-slide.png')
 ```
 
 ::: {style="text-align:center"}
-*A one-pager of my PhD thesis*
+*A one-pager of my PhD thesis. View my defense talk [here](https://www.dropbox.com/s/ud9npy1fdw66j3o/Hung%27s%20PhD%20defense.mp4?dl=0).*
 :::
 
 ## Linear dynamical system reconstruction
