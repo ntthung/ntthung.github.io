@@ -132,7 +132,7 @@ p1 + p2 + plot_layout(widths = c(5, 1))
 
 4.  Galelli, S., **Nguyen, H. T. T.**, Turner, S. W. D., and Buckley, B. M. (2021). Time to use dendrohydrological data in water resources management? Commentary, to appear in Journal of Water Resources Planning and Management
 
-5.  **Nguyen, H. T. T.**, Galelli, S., Xu, C., & Buckley, B. (2020). Multi-Proxy, Multi-Season Streamflow Reconstruction with Mass Balance Adjustment. Earth and Space Science Open Archive. DOI: [10.1002/essoar.10504791.1](https://doi.org/[10.1002/essoar.10504791.1]).
+5.  **Nguyen, H. T. T.**, Galelli, S., Xu, C., & Buckley, B. (2020). Multi-Proxy, Multi-Season Streamflow Reconstruction with Mass Balance Adjustment. Earth and Space Science Open Archive. DOI: [10.1002/essoar.10504791.1](https://doi.org/%5B10.1002/essoar.10504791.1%5D).
 
 6.  Chowdhury, A. F. M. K., Dang, T. D., **Nguyen, H. T. T.**, Koh, R., & Galelli, S. (2021). The Greater Mekong's climate-water-energy nexus: how ENSO-triggered regional droughts affect power supply and CO2 emissions. Accepted in Earth's Future. DOI: [10.1002/essoar.10504393.1](https://doi.org/10.1002/essoar.10504393.1).
 
