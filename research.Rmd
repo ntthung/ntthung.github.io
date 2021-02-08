@@ -39,7 +39,7 @@ Most reconstruction methods rely on linear regression, which does not account fo
 
 Few reconstructions have been done in Asia, all of which are single-sited; a regional, synthesized understanding is lacking. I apply the LDS model to reconstruct streamflow at 62 stations on 41 rivers in 16 countries across the Asian Monsoon region---the *Monsoon Asia*. For such a large scale reconstruction, it is impractical to manually tune the model hyperparameters (the thresholds to include paleoclimate proxies) as I did in the LDS work. Therefore, I also develop a novel, automatic, and climate-informed input selection scheme. This large scale reconstruction reveal that streamflow in Monsoon Asia is spatially coherent, owing to common influences exerted by the oceans. The reconstruction also shows how these oceanic teleconnections vary over space and time.
 
-[Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR027883) \| [Code repo](https://github.com/ntthung/paleo-asia)
+[Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR027883) \| [Code repo](https://github.com/ntthung/paleo-asia) \| [Media](https://wiley.altmetric.com/details/91444995/news)
 
 ## Mass balanced sub-annual reconstruction
 
@@ -69,4 +69,4 @@ Using the Angat Reservoir (the Philippines) as a case study, we show that tradit
 
 The Greater Mekong Subregion is a huge population center, thirsty for energy and growth. The basin is now punctuated by several dams, successful in attracting both international investors and fierce criticisms for their environmental and societal impacts. Surprisingly, no attention has been paid so far to the actual performance of these dams: is hydropower supply robust against hydroclimatic variability? When variations in climate affect inflow, what are the implications for power production costs and CO<sub>2</sub> emissions? We found that both production costs and carbon footprint are significantly affected by droughts, which reduce hydropower availability and increase reliance on thermal power. Regional droughts across the Mekong basin are of particular concern, as they reduce the export of cheap hydropower from Laos to Thailand.
 
-[Preprint](https://www.essoar.org/doi/10.1002/essoar.10504393.1) (the paper has been accepted and will be available soon)
+[Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020EF001814)
