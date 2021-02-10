@@ -18,8 +18,6 @@ output:
 site: distill::distill_website
 ---
 
-Hi, this is new.
-
 I am a water guy.
 
 In my research, I try to understand the variability and changes in the water cycle at multiple spatial and temporal scales, and apply such understanding to water resources management.
