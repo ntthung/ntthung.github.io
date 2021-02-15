@@ -4,7 +4,7 @@ title: "Vitae"
 
 <aside>
 
-[[PDF](assets/CV-Hung.pdf)]{style="font-size:150%"}
+[[PDF]{style="font-size:150%"}](assets/CV_public.pdf)
 
 </aside>
 
