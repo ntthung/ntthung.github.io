@@ -130,7 +130,7 @@ p1 + p2 + plot_layout(widths = c(5, 1))
 
 3.  **Nguyen, H. T. T.**, Turner, S. W. D., Buckley, B. M., & Galelli, S. (2020). Coherent Streamflow Variability in Monsoon Asia Over the Past Eight Centuries---Links to Oceanic Drivers. Water Resources Research, 56(12). DOI: [10.1029/2020WR027883](https://doi.org/10.1029/2020WR027883).
 
-4.  Galelli, S., **Nguyen, H. T. T.**, Turner, S. W. D., and Buckley, B. M. (2021). Time to use dendrohydrological data in water resources management? Commentary, to appear in Journal of Water Resources Planning and Management
+4.  Galelli, S., **Nguyen, H. T. T.**, Turner, S. W. D., and Buckley, B. M. (Forthcoming). Time to use dendrohydrological data in water resources management? Journal of Water Resources Planning and Management. DOI: 10.1061/(ASCE)WR.1943-5452.0001422.
 
 5.  **Nguyen, H. T. T.**, Galelli, S., Xu, C., & Buckley, B. (2020). Multi-Proxy, Multi-Season Streamflow Reconstruction with Mass Balance Adjustment. Earth and Space Science Open Archive. DOI: [10.1002/essoar.10504791.1](https://doi.org/%5B10.1002/essoar.10504791.1%5D).
 
