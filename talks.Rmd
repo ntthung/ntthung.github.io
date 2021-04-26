@@ -22,9 +22,11 @@ title: "Talks"
 
 # Conferences and workshops
 
--   EGU 2021: Monthly streamflow reconstruction for the Chao Phraya River Basin with tree rings and &delta;<sup>18</sup>O
+-   EGU 2021: Monthly streamflow reconstruction for the Chao Phraya River Basin with tree rings and δ<sup>18</sup>O [\>\>Video](https://youtu.be/G30fbbtf054)
 
-    [Slides](assets/thai-monthly-egu.html) \| [Video](https://youtu.be/G30fbbtf054)
+```{r embed-xaringan, echo=FALSE}
+xaringanExtra::embed_xaringan(url = "assets/thai-monthly-egu.html", ratio = "16:9")
+```
 
 -   SAPEC-2020 Data and Methods in Paleo Proxy Sciences
 
