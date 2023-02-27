@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streamflow reconstruction on Hung Nguyen</title>
+    <link>https://ntthung.github.io/tags/streamflow-reconstruction/</link>
+    <description>Recent content in streamflow reconstruction on Hung Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/tags/streamflow-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Proxy, Monthly Climate Reconstruction</title>
+      <link>https://ntthung.github.io/project/thai-monthly/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/thai-monthly/</guid>
+      <description>Motivations &amp;amp; Objectives Tree rings, with annual resolution and precise dating, can provide temporally high-resolution proxy records of past climate. However, annually-resolved tree ring data still restrict how tree-ring-based paleoclimate reconstructions can be used in subsequent applications, where finer resolutions are desirable. For example, it is often difficult to compare annual climate reconstructions against historical events, because an event may have happened outside the target season of the reconstruction, or two opposite events (a flood and a drought) may be smoothed out by a reconstruction that targets the annual average (Wise, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Monsoon Asia Paleo-Streamflow</title>
+      <link>https://ntthung.github.io/project/paleo-asia/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/paleo-asia/</guid>
+      <description>Summary Ten of the world&amp;rsquo;s biggest rivers are located entirely within the Asian Monsoon region. They provide water, energy, and food for 1.7 billion people. To manage these critical resources, we need a better understanding of river discharge—how does it change over a long time? Are there common variation patterns among rivers? To answer these questions, we use information derived from tree rings to reconstruct average annual river discharge history at 62 gauges in 16 Asian countries.</description>
+    </item>
+    
+  </channel>
+</rss>

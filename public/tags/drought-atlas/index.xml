@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drought atlas on Hung Nguyen</title>
+    <link>https://ntthung.github.io/tags/drought-atlas/</link>
+    <description>Recent content in drought atlas on Hung Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/tags/drought-atlas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monsoon Asia Paleo-Streamflow</title>
+      <link>https://ntthung.github.io/project/paleo-asia/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/paleo-asia/</guid>
+      <description>Summary Ten of the world&amp;rsquo;s biggest rivers are located entirely within the Asian Monsoon region. They provide water, energy, and food for 1.7 billion people. To manage these critical resources, we need a better understanding of river discharge—how does it change over a long time? Are there common variation patterns among rivers? To answer these questions, we use information derived from tree rings to reconstruct average annual river discharge history at 62 gauges in 16 Asian countries.</description>
+    </item>
+    
+  </channel>
+</rss>

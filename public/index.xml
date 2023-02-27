@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung Nguyen</title>
+    <link>https://ntthung.github.io/</link>
+    <description>Recent content on Hung Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify</title>
+      <link>https://ntthung.github.io/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A first post</title>
+      <link>https://ntthung.github.io/blog/spoonful-series/01-spoonful/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/spoonful-series/01-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
+beginning middle end </description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>https://ntthung.github.io/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day01/01-github/</guid>
+      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>https://ntthung.github.io/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>https://ntthung.github.io/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) ✨ Commit &amp;amp; Push! ✨</description>
+    </item>
+    
+    <item>
+      <title>A second post</title>
+      <link>https://ntthung.github.io/blog/spoonful-series/02-spoonful/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/spoonful-series/02-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\02-spoonful\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>https://ntthung.github.io/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) ✨ Commit &amp;amp; Push! ✨</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://ntthung.github.io/blog/spoonful-series/03-spoonful/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/spoonful-series/03-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog\spoonful-series\03-spoonful\index.markdown Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>https://ntthung.github.io/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day01/03-distill/</guid>
+      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>https://ntthung.github.io/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/collection/day02/03-blogdown/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>Hydroclimatic Variability on the Qinghai-Tibetan Plateau and Demographic Patterns
+</title>
+      <link>https://ntthung.github.io/project/tibet/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/tibet/</guid>
+      <description>We propose new reconstructions of past temperatures and precipitations on the Tibetan Plateau. Combining our new reconstructions with existing records, we seek to explore the role of climate in driving past changes in demographic patterns.
+We have submitted a proposal to the NSF HEGS Program and results are pending.
+We have also received USD 2,500 from the Department of East Asian Languages and Culture, Columbia University, to develop the course A Climate History of the Tibetan Plateau.</description>
+    </item>
+    
+    <item>
+      <title>Quantifying Multi-Year Drought Risk with the Transition Probability Matrix
+</title>
+      <link>https://ntthung.github.io/publication/henley2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/henley2023/</guid>
+      <description>Manuscript under consideration with Water Resources Research.
+More soon as we hear from the reviewers.</description>
+    </item>
+    
+    <item>
+      <title>Why the 2022 Po River Drought Is the Worst in the Past Two Centuries
+</title>
+      <link>https://ntthung.github.io/publication/montanari2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/montanari2023/</guid>
+      <description>Manuscript under consideration with Science Advances.
+This paper originated from a tweet!
+More soon as we hear from the reviewers.</description>
+    </item>
+    
+    <item>
+      <title>The Longleaf Tree-Ring Network: Reviewing and Expanding the Utility of *Pinus palustris* Mill. Dendrochronological Data
+</title>
+      <link>https://ntthung.github.io/publication/harley2023/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/harley2023/</guid>
+      <description>Longleaf pines have not only long leaves, but also long lives. Thus they are excellent materials to build tree-ring time machines. Grant Hartley led a ginormous effort to review everything longleaf in this paper. I was lucky to contribute a teeny bit.
+I also got to learn how such a big project is executed. In the old days this would have been a monograph by a gentleman scientist. Science is more inclusive now, and a diverse team of authors work on this project together.</description>
+    </item>
+    
+    <item>
+      <title>Increasing Drought Risks Over the Past Four Centuries Amidst Projected Flood Intensification in the Kabul River Basin (Afghanistan and Pakistan)—Evidence From Tree Rings</title>
+      <link>https://ntthung.github.io/publication/khan2022/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/khan2022/</guid>
+      <description>The Kabul River is a transboundary river spanning eastern Afghanistan and northern Pakistan. It is an important tributary of the Indus, one of the world&amp;rsquo;s largest rivers with intensive water withdrawals for human use. With climate change, the Kabul River is projected to have more frequent and larger floods, but the projections are very uncertain. To have a better understanding of these future projections, we need to look at how the region&amp;rsquo;s climate has changed in the past.</description>
+    </item>
+    
+    <item>
+      <title>Increasing Drought Risks Over the Past Four Centuries Amidst Projected Flood Intensification in the Kabul River Basin (Afghanistan and Pakistan)—Evidence From Tree Rings
+</title>
+      <link>https://ntthung.github.io/talk/chitral/</link>
+      <pubDate>Thu, 15 Dec 2022 09:02:00 -0600</pubDate>
+      
+      <guid>https://ntthung.github.io/talk/chitral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertain Benefits of Using Remotely Sensed Evapotranspiration for Streamflow Estimation-Insights from a Randomized, Large-Sample Experiment
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2022preprint/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2022preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megadroughts in the Common Era and the Anthropocene
+</title>
+      <link>https://ntthung.github.io/publication/cook2022/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/cook2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Droughts, Pluvials, and Wet Season Timing Across the Chao Phraya River Basin: A 254-Year Monthly Reconstruction From Tree Ring Widths and &amp;delta;&lt;sup&gt;18&lt;/sup&gt;O
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2022/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2022/</guid>
+      <description>Long records of river discharge, reconstructed from tree rings, help us understand how rivers behaved in response to past climates, and place projected climate changes in a broader perspective. While this knowledge is valuable, streamflow reconstructions have rarely been used to directly inform water management models, because tree rings are annual while water system models require streamflow data of higher resolutions, such as monthly or weekly. In our study, we use a rich network of tree ring data, consisting of both ring widths and stable oxygen isotope ratios, to reconstruct monthly river discharge at four key gauging stations that represent the four main tributaries of the Chao Phraya River, Thailand, thus bridging the gap between tree rings and water management.</description>
+    </item>
+    
+    <item>
+      <title>Pakistan Hydroclimate over the past Five Centuries</title>
+      <link>https://ntthung.github.io/project/pakistan/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/pakistan/</guid>
+      <description>Summary The Kabul River is a transboundary river spanning eastern Afghanistan and northern Pakistan. It is an important tributary of the Indus, one of the world&amp;rsquo;s largest rivers with intensive water withdrawals for human use. With climate change, the Kabul River is projected to have more frequent and larger floods, but the projections are very uncertain. To have a better understanding of these future projections, we need to look at how the region&amp;rsquo;s climate has changed in the past.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Proxy, Monthly Climate Reconstruction</title>
+      <link>https://ntthung.github.io/project/thai-monthly/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/thai-monthly/</guid>
+      <description>Motivations &amp;amp; Objectives Tree rings, with annual resolution and precise dating, can provide temporally high-resolution proxy records of past climate. However, annually-resolved tree ring data still restrict how tree-ring-based paleoclimate reconstructions can be used in subsequent applications, where finer resolutions are desirable. For example, it is often difficult to compare annual climate reconstructions against historical events, because an event may have happened outside the target season of the reconstruction, or two opposite events (a flood and a drought) may be smoothed out by a reconstruction that targets the annual average (Wise, 2021).</description>
+    </item>
+    
+    <item>
+      <title>The Greater Mekong&#39;s Climate-Water-Energy Nexus: How ENSO-Triggered Regional Droughts Affect Power Supply and CO&lt;sub&gt;2&lt;/sub&gt; Emissions
+</title>
+      <link>https://ntthung.github.io/publication/chowdhury2021/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/chowdhury2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi‐Proxy, Multi‐Season Streamflow Reconstruction with Mass Balance Adjustment
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2021/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2021/</guid>
+      <description>Long history of river discharge, or streamflow, can be reconstructed from tree rings. These reconstructions help us understand the water cycle in the past, but they have not been widely used in water resources operations. This is because reconstructions are often annual (having only one data point per year). By combining different tree species and different features of tree rings (for example, ring width and stable isotope ratio), it is possible to reconstruct seasonal streamflow in addition to the annual one, and that is our first goal.</description>
+    </item>
+    
+    <item>
+      <title>Time to Use Dendrohydrological Data in Water Resources Management? 
+</title>
+      <link>https://ntthung.github.io/publication/galelli2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/galelli2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up your social</title>
+      <link>https://ntthung.github.io/blog/social/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/social/</guid>
+      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
+site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.
+Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+    </item>
+    
+    <item>
+      <title>Style your site colors</title>
+      <link>https://ntthung.github.io/blog/color-themes/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/color-themes/</guid>
+      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
+Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
+    </item>
+    
+    <item>
+      <title>Style your site typography</title>
+      <link>https://ntthung.github.io/blog/fonts/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/fonts/</guid>
+      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
+Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
+    </item>
+    
+    <item>
+      <title>An evergreen post</title>
+      <link>https://ntthung.github.io/blog/evergreen/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/evergreen/</guid>
+      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.
+Rmarkdown In .Rmarkdown documents, you can use either
+$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
+And you can use
+$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
+    </item>
+    
+    <item>
+      <title>Using panelsets</title>
+      <link>https://ntthung.github.io/blog/seedling/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/seedling/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
+For example, this panelset:
+Hello! 👋 hello
+Goodbye 💨 goodbye
+Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
+{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:
+Question Which came first: the 🐔 or the 🥚?</description>
+    </item>
+    
+    <item>
+      <title>An Rmarkdown post</title>
+      <link>https://ntthung.github.io/blog/rmarkdown/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/rmarkdown/</guid>
+      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
+    </item>
+    
+    <item>
+      <title>Coherent Streamflow Variability in Monsoon Asia Over the Past Eight Centuries—Links to Oceanic Drivers
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2020/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2020/</guid>
+      <description>Ten of the world&amp;rsquo;s biggest rivers are located entirely within the Asian Monsoon region. They provide water, energy, and food for 1.7 billion people. To manage these critical resources, we need a better understanding of river discharge—how does it change over a long time? Are there common variation patterns among rivers? To answer these questions, we use information derived from tree rings to reconstruct average annual river discharge history at 62 gauges in 16 Asian countries.</description>
+    </item>
+    
+    <item>
+      <title>Monsoon Asia Paleo-Streamflow</title>
+      <link>https://ntthung.github.io/project/paleo-asia/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/paleo-asia/</guid>
+      <description>Summary Ten of the world&amp;rsquo;s biggest rivers are located entirely within the Asian Monsoon region. They provide water, energy, and food for 1.7 billion people. To manage these critical resources, we need a better understanding of river discharge—how does it change over a long time? Are there common variation patterns among rivers? To answer these questions, we use information derived from tree rings to reconstruct average annual river discharge history at 62 gauges in 16 Asian countries.</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>https://ntthung.github.io/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
+Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>https://ntthung.github.io/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+    </item>
+    
+    <item>
+      <title>On the Value of ENSO State for Urban Water Supply System Operators: Opportunities, Trade-Offs, and Challenges
+</title>
+      <link>https://ntthung.github.io/publication/libisch2019/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/libisch2019/</guid>
+      <description>The El Niño Southern Oscillation (ENSO) is a major driver of global hydro-climatic variability, with well-known effects on floods, droughts, and coupled human-natural systems. Its impact on urban settlements depends on both level of exposure and preparedness; two factors that are responsible for severe cuts on millions of people in developing countries, where urban water supply relies almost entirely on rainfall-dependent sources. To understand whether information on the ENSO state could help mitigate the effects of droughts, we use Metro Manila&amp;rsquo;s water supply system as exemplifying case study, for which we design “traditional” and adaptive management policies.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ntthung.github.io/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://ntthung.github.io/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://ntthung.github.io/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://ntthung.github.io/elements/</guid>
+      <description>Font Sizes A A A A A A A A 6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>A Linear Dynamical Systems Approach to Streamflow Reconstruction Reveals History of Regime Shifts in Northern Thailand
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2018/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2018/</guid>
+      <description>Streamflow reconstruction involves estimating streamflow volumes in the distant past using statistical techniques and long range climate proxies. Conventionally, this is done using linear regression techniques which model streamflow as a linear function of climatic inputs. These models do not consider catchment dynamics, although in reality, streamflow volume depends on both climatic inputs and the state of the catchment (whether it is wet or dry). Here, we contribute a novel reconstruction technique, based on linear dynamical systems, that models explicitly the catchment state and its interaction with climatic inputs.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://ntthung.github.io/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://ntthung.github.io/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Mentoring</title>
+      <link>https://ntthung.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/teaching/</guid>
+      <description>Courses taught Climate History of the Tibetan Plateau
+Department of East Asian Languages and Cultures, Columbia University
+Spring 2023.
+Predicting the Effects of Climate Change on Global Forests
+MS in Sustainability Science, School of Professional Studies, Columbia University
+Fall 2020, Fall 2021.
+Engineering Systems Architecture
+Pillar of Engineering Systems and Design, Singapore University of Technology and Design
+Fall 2018
+Quality and Reliability
+Pillar of Engineering Systems and Design, Singapore University of Technology and Design</description>
+    </item>
+    
+  </channel>
+</rss>

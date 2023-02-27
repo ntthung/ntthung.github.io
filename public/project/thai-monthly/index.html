@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.105.0">
+<title>Multi-Proxy, Monthly Climate Reconstruction | Hung Nguyen</title>
+
+
+<meta property="twitter:site" content="@Hung_TT_Nguyen">
+<meta property="twitter:creator" content="@Hung_TT_Nguyen">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="This project aims to develop a novel mathematical framework to achieve **monthly streamflow reconstruction** from **annual tree-ring data**.">
+
+
+<meta property="og:site_name" content="Hung Nguyen">
+<meta property="og:title" content="Multi-Proxy, Monthly Climate Reconstruction | Hung Nguyen">
+<meta property="og:description" content="This project aims to develop a novel mathematical framework to achieve **monthly streamflow reconstruction** from **annual tree-ring data**." />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://ntthung.github.io/project/thai-monthly/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="https://ntthung.github.io/project/thai-monthly/featured.png" >
+        <meta property="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://ntthung.github.io/project/thai-monthly/featured.png" >
+    
+    
+  <meta itemprop="name" content="Multi-Proxy, Monthly Climate Reconstruction">
+<meta itemprop="description" content="Motivations &amp; Objectives Tree rings, with annual resolution and precise dating, can provide temporally high-resolution proxy records of past climate. However, annually-resolved tree ring data still restrict how tree-ring-based paleoclimate reconstructions can be used in subsequent applications, where finer resolutions are desirable. For example, it is often difficult to compare annual climate reconstructions against historical events, because an event may have happened outside the target season of the reconstruction, or two opposite events (a flood and a drought) may be smoothed out by a reconstruction that targets the annual average (Wise, 2021)."><meta itemprop="datePublished" content="2022-08-01T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-08-01T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1228"><meta itemprop="image" content="https://ntthung.github.io/project/thai-monthly/featured.png">
+<meta itemprop="keywords" content="Thailand,tree rings,stable oxygen isotope,streamflow reconstruction," />
+  
+  
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.def27045a19175d68afd463c309dd38be6b4d25560f72d3882d98d19fbb37ee7.css" integrity="sha256-3vJwRaGRddaK/UY8MJ3Ti&#43;a00lVg9y04gtmNGfuzfuc=" media="screen">
+  
+  
+  <script src="/panelset.min.ed1ac24b6e16f4e2481e3d1d098ae66f5bc77438aef619e6e266d8ac5b00dc72.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.112a3006b72139227fa6c905630faf9f128cef4bad73f3acfed6998e1eeada84.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container single-proj">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://ntthung.github.io" title="Home">
+      <img src="/trunk.png" class="dib db-l h2 w-auto" alt="Hung Nguyen">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About Hung">About</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/project/" title="Project Portfolio">Projects</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/publication/" title="Publications">Publications</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Talks</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/teaching/" title="Teaching">Teaching</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 pr3-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Multi-Proxy, Monthly Climate Reconstruction</h1>
+        
+        
+		  <p class="f5 measure-wide lh-copy mv1">
+		    
+			  <i>Collaborators:</i> Stefano Galelli, Chenxi Xu, and Brendan Buckley
+
+			
+		  </p>
+		
+		
+      
+      <div class="ph0 pt5">
+        
+    
+    
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="/publication/nguyen2021" ><i class="ai ai-open-access fa-lg fa-fw mr2"></i>paper 1</a>
+
+    
+    
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="/publication/nguyen2022" ><i class="ai ai-open-access fa-lg fa-fw mr2"></i>paper 2</a>
+
+    
+    
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="/publication/galelli2021" ><i class="ai ai-closed-access fa-lg fa-fw mr2"></i>Commentary</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://github.com/ntthung/multiproxy-mbr" target="_blank" rel="noopener"><i class="fab fa-github fa-lg fa-fw mr2"></i>Data &amp; code 1</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://github.com/ntthung/chao-phraya-monthly" target="_blank" rel="noopener"><i class="fab fa-github fa-lg fa-fw mr2"></i>Data &amp; code 2</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://cran.r-project.org/package=mbr" target="_blank" rel="noopener"><i class="fab fa-r-project fa-lg fa-fw mr2"></i>package</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://www.ncei.noaa.gov/access/paleo-search/study/36835" target="_blank" rel="noopener"><i class="fas fa-door-open fa-lg fa-fw mr2"></i>Data on NOAA</a>
+
+
+      </div>
+      
+      
+      </header>
+      <section class="post-body pt5 pb4">
+        
+
+
+
+<h2 id="motivations--objectives">Motivations &amp; Objectives
+  <a href="#motivations--objectives"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+<p>Tree rings, with annual resolution and precise dating, can provide temporally high-resolution proxy records of past climate. However, annually-resolved tree ring data still restrict how tree-ring-based paleoclimate reconstructions can be used in subsequent applications, where finer resolutions are desirable. For example, it is often difficult to compare annual climate reconstructions against historical events, because an event may have happened outside the target season of the reconstruction, or two opposite events (a flood and a drought) may be smoothed out by a reconstruction that targets the annual average (Wise, 2021). In addition, and specific to water resources, annual streamflow reconstructions have provided important insights into surface water availability, but cannot be used directly in water management models which require monthly, weekly, or even daily data (Galelli et al., 2021).</p>
+<p><strong>How do we obtain subannual climate reconstructions from annual tree rings?</strong> Earliest attempts used statistical methods to disaggregate each annual value to multiple subannual ones, assuming a fixed relationship between the two resolutions (Prairie et al., 2007, 2008; Saito et al., 2015; Sauchyn &amp; Ilich, 2017). Later works incorporated multiple species and sites, leveraging the fact that different tree species have different seasonal sensitivities to the hydroclimate, and that there can be different time lags in hydrologic responses at various sites (Stagge et al., 2018; Stahle et al., 2020; Wise, 2021). A third approach uses intra-annual measurements of stable oxygen isotope ratios (δ<sup>18</sup>O) in tree ring cellulose to reconstruct intra-annual precipitation (Xu et al., 2016, 2021). This approach is promising, but the current methods are time-consuming and expensive.</p>
+<p><strong>We seek to address simultaneously two challenges that were previously considered in isolation:</strong></p>
+<ul>
+<li>How do we combine multiple paleoclimate proxies that have different seasonal sensitivity?</li>
+<li>How do we preserve the annual mass balance? That is, we need to ensure that the sum of the monthly precipitations or streamflows is close to the annual figures.</li>
+</ul>
+<p>Our case study is the Chao Phraya River Basin, Thailand.</p>
+<p>A novel aspect of this work is to <strong>incorporate δ<sup>18</sup>O together with ring width</strong>, motivated by an earlier result (Xu et al., 2019) that δ<sup>18</sup>O correlates strongly with streamflow in the peak monsoon season, which has been a difficult season for reconstruction with ring width.</p>
+
+
+
+
+<h2 id="results--implications">Results &amp; Implications
+  <a href="#results--implications"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+<p>We develop a novel method called mass balance regression (MBR). It is published as an R package named <code>mbr</code>. We first tested this framework with a seasonal recosntruction (wet and dry seasons) of the Ping River streamflow. The framework works really well (Nguyen et al., 2021). We then expanded our application to a monthly reconstruction at all four major tributaries (Ping, Nan, Yom, and Wang) of the Chao Phraya (Nguyen et al., 2022). We also wrote a commentary</p>
+<p>Our framework can be reapplied and expanded in several ways. First, the mass balance formulation is applicable to other climate variables such as precipitation, and to other contexts where a penalty term in the regression equation is desirable. For example, if one wishes to reconstruct streamflow at two tributaries as well as the main stream of a river, the mass balance adjustment should be used to minimize the differences between the total flow of the tributaries and the flow on the main stream. Second, if more proxies—such as wood density (Schweingruber &amp; Briffa, 1996) or blue intensity (Buckley et al., 2018)—are available, they can also be incorporated into the reconstruction framework.</p>
+<p>Our results are particularly important when seen through the lens of water management. The Chao Phraya is water-stressed: freshwater availability per capita is about 2,230 m<sup>3</sup>/year, less than the national average (3,244 m<sup>3</sup>/year) and only 39% of the world&rsquo;s average (5,732 m3/year). Worse still, water availability is not constant throughout the year, as the monsoon brings stark contrasts to the annual hydrograph. Our monthly reconstruction could be used to operate the Chao Phraya water system better. For example, it could help coordinate the operations of Thailand&rsquo;s two largest reservoirs—Bhumibol and Sirikit—both of which are in the Chao Phraya, to mitigate concurrent floods or droughts while meeting irrigation and hydropower demands, which vary greatly from month to month. Our monthly-resolved reconstructions have partly bridged the gap between what tree rings offer and what water management needs.</p>
+
+
+
+
+<h2 id="products">Products
+  <a href="#products"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+
+
+
+
+<h3 id="publications">Publications
+  <a href="#publications"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p><strong>Nguyen, H. T. T.</strong><span style="color: darkorange">(*)</span>, Galelli, S., Xu, C., &amp; Buckley, B. M. (2021). Multi‐Proxy, Multi‐Season Streamflow Reconstruction With Mass Balance Adjustment. Water Resources Research, 57(8). 
+<a href="https://doi.org/10.1029/2020WR029394" target="_blank" rel="noopener">https://doi.org/10.1029/2020WR029394</a></p>
+<p><strong>Nguyen, H. T. T.</strong><span style="color: darkorange">(*)</span>, Galelli, S., Xu, C., &amp; Buckley, B. M. (2022). Droughts, Pluvials, and Wet Season Timing Across the Chao Phraya River Basin: A 254-Year Monthly Reconstruction From Tree Ring Widths and δ18O. Geophysical Research Letters, 49(17), e2022GL100442. 
+<a href="https://doi.org/10.1029/2022GL100442" target="_blank" rel="noopener">https://doi.org/10.1029/2022GL100442</a></p>
+<p>Galelli, S., <strong>Nguyen, H. T. T.</strong>, Turner, S. W. D., &amp; Buckley, B. M. (2021). Time to Use Dendrohydrological Data in Water Resources Management? Journal of Water Resources Planning and Management, 147(8), 01821001. 
+<a href="https://doi.org/10.1061/%28ASCE%29WR.1943-5452.0001422" target="_blank" rel="noopener">https://doi.org/10.1061/(ASCE)WR.1943-5452.0001422</a></p>
+
+
+
+
+<h3 id="data-and-code">Data and code
+  <a href="#data-and-code"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>R package 
+<a href="https://cran.r-project.org/package=mbr" target="_blank" rel="noopener"><code>mbr</code></a>.</p>
+<p>GitHub repos for the 
+<a href="https://github.com/ntthung/multiproxy-mbr" target="_blank" rel="noopener">seasonal</a> and 
+<a href="https://github.com/ntthung/chao-phraya-monthly" target="_blank" rel="noopener">monthly</a> reconstructions.</p>
+<p>The monthly reconstructions are avaialble on the 
+<a href="https://www.ncei.noaa.gov/access/paleo-search/study/36835" target="_blank" rel="noopener">NOAA Paleoclimate Database</a>.</p>
+
+
+
+
+<h2 id="references">References
+  <a href="#references"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+<p>Buckley, B. M., Hansen, K. G., Griffin, K. L., Schmiege, S., Oelkers, R., D’Arrigo, R. D., Stahle, D. K., Davi, N. K., Nguyen, T. Q. T., Le, C. N., &amp; Wilson, R. J. S. (2018). Blue intensity from a tropical conifer’s annual rings for climate reconstruction: An ecophysiological perspective. Dendrochronologia, 50(May), 10–22. 
+<a href="https://doi.org/10.1016/j.dendro.2018.04.003" target="_blank" rel="noopener">https://doi.org/10.1016/j.dendro.2018.04.003</a></p>
+<p>Prairie, J., Nowak, K., Rajagopalan, B., Lall, U., &amp; Fulp, T. (2008). A stochastic nonparametric approach for streamflow generation combining observational and paleoreconstructed data. Water Resources Research, 44(6), 1–11. 
+<a href="https://doi.org/10.1029/2007WR006684" target="_blank" rel="noopener">https://doi.org/10.1029/2007WR006684</a></p>
+<p>Prairie, J., Rajagopalan, B., Lall, U., &amp; Fulp, T. (2007). A stochastic nonparametric technique for space-time disaggregation of streamflows. Water Resources Research, 43(3), 1–10. 
+<a href="https://doi.org/10.1029/2005WR004721" target="_blank" rel="noopener">https://doi.org/10.1029/2005WR004721</a></p>
+<p>Saito, L., Biondi, F., Devkota, R., Vittori, J., &amp; Salas, J. D. (2015). A water balance approach for reconstructing streamflow using tree-ring proxy records. Journal of Hydrology, 529, 535–547. 
+<a href="https://doi.org/10.1016/j.jhydrol.2014.11.022" target="_blank" rel="noopener">https://doi.org/10.1016/j.jhydrol.2014.11.022</a></p>
+<p>Sauchyn, D., &amp; Ilich, N. (2017). Nine Hundred Years of Weekly Streamflows: Stochastic Downscaling of Ensemble Tree-Ring Reconstructions. Water Resources Research, 1–18. 
+<a href="https://doi.org/10.1002/2017WR021585" target="_blank" rel="noopener">https://doi.org/10.1002/2017WR021585</a></p>
+<p>Stagge, J. H., Rosenberg, D. E., DeRose, R. J., &amp; Rittenour, T. M. (2018). Monthly paleostreamflow reconstruction from annual tree-ring chronologies. Journal of Hydrology, 557, 791–804. 
+<a href="https://doi.org/10.1016/j.jhydrol.2017.12.057" target="_blank" rel="noopener">https://doi.org/10.1016/j.jhydrol.2017.12.057</a></p>
+<p>Stahle, D. W., Cook, E. R., Burnette, D. J., Torbenson, M. C. A., Howard, I. M., Griffin, D., Diaz, J. V., Cook, B. I., Williams, A. P., Watson, E., Sauchyn, D. J., Pederson, N., Woodhouse, C. A., Pederson, G. T., Meko, D., Coulthard, B., &amp; Crawford, C. J. (2020). Dynamics, Variability, and Change in Seasonal Precipitation Reconstructions for North America. Journal of Climate, 33(8), 3173–3195. 
+<a href="https://doi.org/10.1175/JCLI-D-19-0270.1" target="_blank" rel="noopener">https://doi.org/10.1175/JCLI-D-19-0270.1</a></p>
+<p>Wise, E. K. (2021). Sub-Seasonal Tree-Ring Reconstructions for More Comprehensive Climate Records in U.S. West Coast Watersheds. Geophysical Research Letters, 48(2), e2020GL091598. 
+<a href="https://doi.org/10.1029/2020GL091598" target="_blank" rel="noopener">https://doi.org/10.1029/2020GL091598</a></p>
+<p>Xu, C., Buckley, B. M., Promchote, P., Wang, S. Y. S., Pumijumnong, N., An, W., Sano, M., Nakatsuka, T., &amp; Guo, Z. (2019). Increased Variability of Thailand’s Chao Phraya River Peak Season Flow and Its Association With ENSO Variability: Evidence From Tree Ring δ18O. Geophysical Research Letters, 46(9), 4863–4872. 
+<a href="https://doi.org/10.1029/2018GL081458" target="_blank" rel="noopener">https://doi.org/10.1029/2018GL081458</a></p>
+<p>Xu, C., Zheng, H., Nakatsuka, T., Sano, M., Li, Z., &amp; Ge, J. (2016). Inter- and intra-annual tree-ring cellulose oxygen isotope variability in response to precipitation in Southeast China. Trees, 30(3), 785–794. 
+<a href="https://doi.org/10.1007/s00468-015-1320-2" target="_blank" rel="noopener">https://doi.org/10.1007/s00468-015-1320-2</a></p>
+<p>Xu, C., Zhu, H., Wang, S.-Y. S., Shi, F., An, W., Li, Z., Sano, M., Nakatsuka, T., &amp; Guo, Z. (2021). Onset and maturation of Asian summer monsoon precipitation reconstructed from intra-annual tree-ring oxygen isotopes from the southeastern Tibetan Plateau. Quaternary Research, 103, 139–147. 
+<a href="https://doi.org/10.1017/qua.2020.28" target="_blank" rel="noopener">https://doi.org/10.1017/qua.2020.28</a></p>
+
+		
+		<details ZgotmplZ class="f6 fw7 input-reset">
+  
+    
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Tags:</dt>
+    <dd class="fw5 ml0"> <a href="https://ntthung.github.io/tags/thailand">Thailand</a>  <a href="https://ntthung.github.io/tags/tree-rings">tree rings</a>  <a href="https://ntthung.github.io/tags/stable-oxygen-isotope">stable oxygen isotope</a>  <a href="https://ntthung.github.io/tags/streamflow-reconstruction">streamflow reconstruction</a> </dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+    <dd class="fw5 ml0"><a href="/project/tibet/">Hydroclimatic Variability on the Qinghai-Tibetan Plateau and Demographic Patterns
+</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/publication/harley2023/">The Longleaf Tree-Ring Network: Reviewing and Expanding the Utility of *Pinus palustris* Mill. Dendrochronological Data
+</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/publication/khan2022/">Increasing Drought Risks Over the Past Four Centuries Amidst Projected Flood Intensification in the Kabul River Basin (Afghanistan and Pakistan)—Evidence From Tree Rings</a></dd>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://ntthung.github.io/project/pakistan/">&larr; Pakistan Hydroclimate over the past Five Centuries</a>
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://ntthung.github.io/project/paleo-asia/">Monsoon Asia Paleo-Streamflow &rarr;</a>
+  
+</div>
+		
+      </footer>
+    </article>
+ </main>
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2023 Hung Nguyen
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-social-links db dtc-l v-mid w-100 w-33-l tc pv2 pv0-l mv0">
+      <div class="social-icon-links" aria-hidden="true">
+  
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://scholar.google.com/citations?user=8zCRRxkAAAAJ" title="google-scholar" target="_blank" rel="me noopener">
+      <i class="ai ai-google-scholar fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://github.com/ntthung" title="github" target="_blank" rel="me noopener">
+      <i class="fab fa-github fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://twitter.com/Hung_TT_Nguyen" title="twitter" target="_blank" rel="me noopener">
+      <i class="fab fa-twitter fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="http://orcid.org/0000-0003-0174-6659" title="orcid" target="_blank" rel="me noopener">
+      <i class="ai ai-orcid fa-lg fa-fw"></i>
+    </a>
+  
+</div>
+
+    </div>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
+      
+    </div>
+  </nav>
+  
+    <script>
+
+    var i, text, code, codes = document.getElementsByTagName('code');
+    for (let i = 0; i < codes.length;) {
+      code = codes[i];
+      if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+        text = code.textContent;
+        if (/^\$[^$]/.test(text) && /[^$]\$$/.test(text)) {
+          text = text.replace(/^\$/, '\\(').replace(/\$$/, '\\)');
+          code.textContent = text;
+        }
+        if (/^\\\((.|\s)+\\\)$/.test(text) ||
+            /^\\\[(.|\s)+\\\]$/.test(text) ||
+            /^\$(.|\s)+\$$/.test(text) ||
+            /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+          code.outerHTML = code.innerHTML;  
+          continue;
+        }
+      }
+      i++;
+    }
+</script>
+
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+
+
+    
+  
+  
+</footer>
+
+      </div>
+    </body>
+</html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hydrology on Hung Nguyen</title>
+    <link>https://ntthung.github.io/tags/hydrology/</link>
+    <description>Recent content in hydrology on Hung Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantifying Multi-Year Drought Risk with the Transition Probability Matrix
+</title>
+      <link>https://ntthung.github.io/publication/henley2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/henley2023/</guid>
+      <description>Manuscript under consideration with Water Resources Research.
+More soon as we hear from the reviewers.</description>
+    </item>
+    
+    <item>
+      <title>Why the 2022 Po River Drought Is the Worst in the Past Two Centuries
+</title>
+      <link>https://ntthung.github.io/publication/montanari2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/montanari2023/</guid>
+      <description>Manuscript under consideration with Science Advances.
+This paper originated from a tweet!
+More soon as we hear from the reviewers.</description>
+    </item>
+    
+    <item>
+      <title>Uncertain Benefits of Using Remotely Sensed Evapotranspiration for Streamflow Estimation-Insights from a Randomized, Large-Sample Experiment
+</title>
+      <link>https://ntthung.github.io/publication/nguyen2022preprint/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/publication/nguyen2022preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hung Nguyen</title>
+    <link>https://ntthung.github.io/project/</link>
+    <description>Recent content in Projects on Hung Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydroclimatic Variability on the Qinghai-Tibetan Plateau and Demographic Patterns
+</title>
+      <link>https://ntthung.github.io/project/tibet/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/tibet/</guid>
+      <description>We propose new reconstructions of past temperatures and precipitations on the Tibetan Plateau. Combining our new reconstructions with existing records, we seek to explore the role of climate in driving past changes in demographic patterns.
+We have submitted a proposal to the NSF HEGS Program and results are pending.
+We have also received USD 2,500 from the Department of East Asian Languages and Culture, Columbia University, to develop the course A Climate History of the Tibetan Plateau.</description>
+    </item>
+    
+    <item>
+      <title>Pakistan Hydroclimate over the past Five Centuries</title>
+      <link>https://ntthung.github.io/project/pakistan/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/pakistan/</guid>
+      <description>Summary The Kabul River is a transboundary river spanning eastern Afghanistan and northern Pakistan. It is an important tributary of the Indus, one of the world&amp;rsquo;s largest rivers with intensive water withdrawals for human use. With climate change, the Kabul River is projected to have more frequent and larger floods, but the projections are very uncertain. To have a better understanding of these future projections, we need to look at how the region&amp;rsquo;s climate has changed in the past.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Proxy, Monthly Climate Reconstruction</title>
+      <link>https://ntthung.github.io/project/thai-monthly/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/thai-monthly/</guid>
+      <description>Motivations &amp;amp; Objectives Tree rings, with annual resolution and precise dating, can provide temporally high-resolution proxy records of past climate. However, annually-resolved tree ring data still restrict how tree-ring-based paleoclimate reconstructions can be used in subsequent applications, where finer resolutions are desirable. For example, it is often difficult to compare annual climate reconstructions against historical events, because an event may have happened outside the target season of the reconstruction, or two opposite events (a flood and a drought) may be smoothed out by a reconstruction that targets the annual average (Wise, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Monsoon Asia Paleo-Streamflow</title>
+      <link>https://ntthung.github.io/project/paleo-asia/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/paleo-asia/</guid>
+      <description>Summary Ten of the world&amp;rsquo;s biggest rivers are located entirely within the Asian Monsoon region. They provide water, energy, and food for 1.7 billion people. To manage these critical resources, we need a better understanding of river discharge—how does it change over a long time? Are there common variation patterns among rivers? To answer these questions, we use information derived from tree rings to reconstruct average annual river discharge history at 62 gauges in 16 Asian countries.</description>
+    </item>
+    
+  </channel>
+</rss>
