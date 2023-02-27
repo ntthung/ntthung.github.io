@@ -6,7 +6,7 @@
     <description>Recent content on Hung Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ntthung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://ntthung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://ntthung.github.io/collection/day02/01-netlify/</link>
@@ -119,6 +119,50 @@ Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apres
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    
+    <item>
+      <title>[Upcoming] Climate History of the Tibetan Plateau: a Joint Exploration with Students
+</title>
+      <link>https://ntthung.github.io/talk/tibet/</link>
+      <pubDate>Fri, 21 Apr 2023 12:00:00 -0500</pubDate>
+      
+      <guid>https://ntthung.github.io/talk/tibet/</guid>
+      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+    </item>
+    
+    <item>
+      <title>[Upcoming] Floods amidst droughts, droughts amidst floods, how one disaster can eclipse another
+</title>
+      <link>https://ntthung.github.io/talk/flood-panel/</link>
+      <pubDate>Fri, 07 Apr 2023 09:00:00 -0600</pubDate>
+      
+      <guid>https://ntthung.github.io/talk/flood-panel/</guid>
+      <description>Stay tuned for more details</description>
+    </item>
+    
+    <item>
+      <title>Ultra-High Resolution Paleostreamflow for Southeast Asia: Proxy/Model Comparison
+</title>
+      <link>https://ntthung.github.io/project/p4-seaq/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/p4-seaq/</guid>
+      <description>This project aims to develop high-resolution data sets of proxy-derived and model-derived paleostreamflow for Southeast Asia.
+We have submitted a proposal to the NSF P4CLIMATE program and results are pending.
+More soon.</description>
+    </item>
+    
+    <item>
+      <title>RADIATR: **R**econstructing **A**griculture **D**ynamics by **I**ntegrating **A**rchaeology and **T**ree **R**ings
+</title>
+      <link>https://ntthung.github.io/project/radiatr/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntthung.github.io/project/radiatr/</guid>
+      <description>In this project, we aim to use stable isotope ratios (δ18O, δ13C, and δ15N) to reconstruct past climate and agriculture dynamics in Asia. We have submitted a proposal to the NSF DISES Program and results are pending.
+We have also received USD 10,000 in seed funding from the Lamont-Doherty Climate Center.
+More soon.</description>
     </item>
     
     <item>
