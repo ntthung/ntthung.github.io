@@ -16,8 +16,6 @@ title: |
   Ultra-High Resolution Paleostreamflow for Southeast Asia: Proxy/Model Comparison
 ---
 
-This project aims to develop high-resolution data sets of proxy-derived and model-derived paleostreamflow for Southeast Asia. 
-
-We have submitted a proposal to the NSF P4CLIMATE program and results are pending.
+This project is funded by the US National Science Foundation, grant AGS-2302668. It aims to develop high-resolution data sets of proxy-derived and model-derived paleostreamflow for Southeast Asia. 
 
 More soon.
