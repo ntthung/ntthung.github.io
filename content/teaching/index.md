@@ -4,6 +4,10 @@ title: Teaching & Mentoring
 
 ## Courses taught
 
+**Climate Change and Sustainable Water**  
+MS in Sustainability Management  
+School of Professional Studies, Columbia University
+
 **Climate History of the Tibetan Plateau**  
 Department of East Asian Languages and Cultures, Columbia University  
 Spring 2023.
@@ -22,13 +26,28 @@ Fall 2017
 
 ## Student mentees
 
-•	Stessie Chounoune, Rider University  
-I am serving as Stessie’s Second Reader on her thesis committee
-
-•	Leila Belgaid, Columbia University  
-Leila joins the Tree Ring Lab as an undergraduate research assistant, funded by my application through the Climate School’s Work Study Program
+• Rui Guo, University of Bologna, PhD thesis  
+• Oanh Nguyen, Vietnam National University Hanoi, PhD thesis  
+• Stessie Chounoune, Rider University (as Thesis Second Reader; now MS student, UC Berkley)  
+• Ruby Bleskacek, Barnard College, undergraduate thesis  
+• Brij Banerji, Columbia University, graduate research assistant  
+• Leila Belgaid, Columbia University, undergraduate research assistant  
 
 ## Students' testimonials
+
+*He is an excellent professor who simplifies and effectively explains complex topics. His use of various 
+teaching tools and passion for the subject, combined with his availability to assist students, greatly 
+enhances the learning experience. I thoroughly enjoyed his class.*
+
+*He has an infectious enthusiasm which spilled over into the class.*
+
+*Hung Nguyen is an amazing teacher. So energetic, very knowledgeable on the subject, clearly loves the 
+material and is generous in sharing his knowledge, incredibly dedicated to our learning, and is a very 
+thoughtful and kind communicator. For example, before introducing the coding assignments to us, he 
+prefaced it with a pep talk about having a growth mindset and also made it clear he would be there to help 
+us if we didn't know how to code. The class field trip to Lamont was a real highlight.*
+
+<p style="text-align: right">Climate Change and Sustainable Water, Fall 2023</p>
 
 *Hung is more than a teaching associate - he was basically a second professor in the course. He is an excellent instructor - the way he was able to break down R for students with little to no background in the platform/language is a skill that few possess. He is patient and encouraging. He wants students to be as curious as he is and enables that curiosity so that the students walk away learning something new. I think he would be a phenomenal professo and I am so glad that he was as involved in this course as he was. He and Brendan make a truly great team.*  
 
