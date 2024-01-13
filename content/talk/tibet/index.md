@@ -17,7 +17,7 @@ show_post_time: false
 title: |
   Climate History of the Tibetan Plateau: a Joint Exploration with Students
 links:
-- icon: file-pdf
+- icon: file
   icon_pack: fas
   name: Slides
   url: "/talk/tibet/Tibet-panel.html"
