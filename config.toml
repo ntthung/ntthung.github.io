@@ -147,16 +147,21 @@ buildFuture = true
     title = "Talks"
     url = "/talk/"
     weight = 4
-#  [[menu.header]]
-#    name = "Blogs"
-#    title = "Talks"
-#    url = "/blog/"
-#    weight = 4
-  [[menu.header]]
+[[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
     weight = 5
+#  [[menu.header]]
+#    name = "Poetry"
+#    title = "Poetry"
+#    url = "/blog/"
+#    weight = 6
+  [[menu.header]]
+    name = "Poetry"
+    title = "Poetry"
+    url = "/poetry/"
+    weight = 6
 #  [[menu.header]]
 #    name = "Elements"
 #    title = "Element Page"
