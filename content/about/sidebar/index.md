@@ -1,9 +1,9 @@
 ---
 author: "Hung Nguyen"
 role: |
-  Postdoctoral Research Scientist  
-  Columbia Climate School  
-  Columbia University
+  Assistant Professor  
+  Department of Earth Science and Environmental Change  
+  University of Illinois Urbana-Champaign
 avatar_shape: circle
 show_social_links: yes
 audio_link_label: How to say my name
